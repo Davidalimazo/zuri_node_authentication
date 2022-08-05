@@ -21,6 +21,7 @@ send in your email:String
 ![image of password-recovery route](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/pass-recovery.png?raw=true)
 
 Authentication: 
+![image of when a user visit route that he or she is not allowed](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/verify-pass.png?raw=true)
 ![image of when a user visit route that he or she is not allowed](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/unauthorize.png?raw=true)
 
 
