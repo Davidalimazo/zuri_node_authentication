@@ -19,7 +19,7 @@ Register: http://localhost:8080/password-recovery
 send in your email:String
 ![image of password-recovery route](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/pass-recovery.png?raw=true)
 
-Authentication: http://localhost:8080/password-recovery
+Authentication: 
 ![image of when a user visit route that he or she is not allowed](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/unauthorize.png?raw=true)
 
 froontend logout
