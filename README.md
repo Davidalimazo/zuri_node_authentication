@@ -10,6 +10,7 @@ to register send the following data to the backend: name: String, email: String,
 # here are the routes.
 Register: http://localhost:8080/register
 ![image of registeration route](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/register.png?raw=true)
+![image of registeration route](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/reg-admin.png?raw=true)
 
 login: http://localhost:8080/login
 send email:String, password: String
@@ -22,7 +23,5 @@ send in your email:String
 Authentication: 
 ![image of when a user visit route that he or she is not allowed](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/unauthorize.png?raw=true)
 
-froontend logout
-![image of when a user visit route that he or she is not allowed](https://github.com/Davidalimazo/zuri_node_authentication/blob/main/logout.png?raw=true)
 
 
